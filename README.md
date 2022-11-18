@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sharon Chepkemoi
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Ruby on rail
-- 💞️ I’m looking to collaborate on 
 - 📫 you can reach me through my email sharonchep97@gmail.com 
 
 <!---
